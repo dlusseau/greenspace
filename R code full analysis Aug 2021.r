@@ -862,7 +862,7 @@ bind_tweets <- function(data_path, user = FALSE) {
 
 setwd("C:/Users/David/Documents/Facebook COVID/Twitter/")
 
-Sys.setenv(TWITTER_BEARER="AAAAAAAAAAAAAAAAAAAAAGVDNgEAAAAAe%2BDuKrY0MQym3OOKDJlWx2M01vs%3DzNugM2FVZCe8eQJph2CIPUeYpdO6qqqgzYwAKa6sqkQXqNuUmt")
+Sys.setenv(TWITTER_BEARER="INSERT_YOURS_HERE")
 
 get_bearer() # it checks out
 
