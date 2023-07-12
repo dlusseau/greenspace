@@ -1,9 +1,10 @@
 # greenspace
-Here you will find R code associated with the analyses presented in Lusseau &amp; Baillie (xxxx) Disparities in greenspace access during COVID-19 mobility restrictions.
+Here you will find R code associated with the analyses presented in Lusseau &amp; Baillie (2023) Disparities in greenspace access during COVID-19 mobility restrictions. Environmental Research
+https://www.sciencedirect.com/science/article/pii/S0013935123003432 
 
 The Facebook Data used in this study is accessible via the Facebook Data For Good Programme after registration: https://dataforgood.facebook.com
 
-The Twitter data can be access from the full Twitter archive thanks to the Twitter API for Academic Resewarch product using the R code in the file xx.r, underpinned by the excellent R library academictwitteR, and using your own credentials after registration: https://developer.twitter.com/en/products/twitter-api/academic-research 
+The Twitter data could be accessed prior to 2023 from the full Twitter archive thanks to the Twitter API for Academic Resewarch product , underpinned by the excellent R library academictwitteR, and using your own credentials after registration: https://developer.twitter.com/en/products/twitter-api/academic-research 
 
 find out more about academictwitteR at: https://cran.r-project.org/web/packages/academictwitteR/vignettes/academictwitteR-build.html
 
